@@ -33,4 +33,4 @@ Open index.html in any browser
 Contributions are welcome! Feel free to fork and improve the project.
 
 👩‍💻 Author
-Your Name | GitHub: https://github.com/your-username
+Your Name | GitHub: https://github.com/priyanka2905p
